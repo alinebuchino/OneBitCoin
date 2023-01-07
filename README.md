@@ -1,4 +1,4 @@
-# OneBitCoin React Native app!
+# App OneBitCoin!
 
 Aplicativo desenvolvido em React Native para monitorar as cotações do BitCoin
 
